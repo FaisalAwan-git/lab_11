@@ -1,0 +1,2 @@
+Console.WriteLine(Name:Faisal,Usman);
+Console.WriteLine(Roll no:60,74);
